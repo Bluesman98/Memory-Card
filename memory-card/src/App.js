@@ -66,7 +66,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-      <div className="logo"><img src="./images/logo.png"/></div>
+      <div className="logo"><img src={require('./logo.png')}/></div>
         <div className="score">
           <div>Score: {score}</div>
           <div>High Score: {highScore}</div>

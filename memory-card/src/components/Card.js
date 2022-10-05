@@ -7,7 +7,7 @@ function Card(props) {
 
   return (
     <div className="Card"  onClick ={handler} >
-   <img src={'/images/'+props.cardInfo.name+'.jpeg'} alt="image"/>
+   <img src={require('../../public/images/'+props.cardInfo.name+'.jpeg')} alt="image"/>
     </div>
   );
 }
