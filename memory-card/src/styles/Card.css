@@ -1,14 +1,12 @@
-.Card{
-    display: flex;
-    flex-direction: column;
+.Card {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
 }
 
-img{
-    height:100%;
-    width: 100%;  
-   border-radius: 5px;
+img {
+  height: 95%;
+  width: 95%;
+  border-radius: 5px;
 }
 
-.img-placeholder{
-    flex:1;
-}

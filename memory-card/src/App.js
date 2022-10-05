@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import CardList from "./components/CardList";
-import "./App.css";
+import "./styles/App.css";
 
 function App() {
   const [score, setScore] = useState(-1);
@@ -65,9 +65,12 @@ function App() {
   }, []);
   return (
     <div className="App">
-      <div className="score">
-        <div>Score {score}</div>
-        <div>High Score {highScore}</div>
+      <div className="header">
+      <div className="logo"><img src="./images/logo.png"/></div>
+        <div className="score">
+          <div>Score: {score}</div>
+          <div>High Score: {highScore}</div>
+        </div>
       </div>
       <CardList list={list} handler={handleClick} />
     </div>

@@ -1,0 +1,36 @@
+body,html,#root{
+  margin-top: 0;
+  margin-left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body{
+  background-image: url('../../public/images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App{
+padding-left: 1%;
+padding-right: 1%;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.score{
+  gap:2rem;
+  font-size:200%;
+  color: gold;
+  display: flex;
+}
+
+.logo{
+  height:17%;
+  width: 17%;
+}
