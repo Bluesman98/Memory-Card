@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
 import '../styles/Card.css';
 
 function Card(props) {
+  function handler(){
+    props.handler(props.cardInfo.id)
+  }
+
   return (
-    <div className="Card">
+    <div className="Card"  onClick ={handler} >
    <img src={'/images/'+props.cardInfo.name+'.jpeg'} alt="image"/>
     </div>
   );

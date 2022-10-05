@@ -1,3 +1,13 @@
-body,html,#root,.App{
+body,html,#root{
   height: 100%;
+  overflow: hidden;
+}
+
+.App{
+  height: 97%;
+}
+
+.score{
+  display: flex;
+  gap:2rem
 }
