@@ -1,14 +1,28 @@
 {
   "files": {
     "main.css": "/Memory-Card/static/css/main.2c479612.css",
-    "main.js": "/Memory-Card/static/js/main.be95b7d6.js",
+    "main.js": "/Memory-Card/static/js/main.7e8c8180.js",
     "static/media/background.png": "/Memory-Card/static/media/background.3554a9a3cc17c35fed7c.png",
+    "static/media/Pippin.jpeg": "/Memory-Card/static/media/Pippin.c4fc1f86df0b0170c162.jpeg",
+    "static/media/Merry.jpeg": "/Memory-Card/static/media/Merry.2f44022c39e925f0c31c.jpeg",
+    "static/media/Galadriel.jpeg": "/Memory-Card/static/media/Galadriel.aec35503b72a6cb70a58.jpeg",
+    "static/media/logo.png": "/Memory-Card/static/media/logo.5fd02a48e6dc866f7870.png",
+    "static/media/Elrond.jpeg": "/Memory-Card/static/media/Elrond.22ec8f6fd34709aa1eab.jpeg",
+    "static/media/Arwen.jpeg": "/Memory-Card/static/media/Arwen.7dbbf4f1d537d9a591c4.jpeg",
+    "static/media/Gimli.jpeg": "/Memory-Card/static/media/Gimli.59938768af79b3b8e3c9.jpeg",
+    "static/media/Sam.jpeg": "/Memory-Card/static/media/Sam.0489f9446b6674bca525.jpeg",
+    "static/media/Boromir.jpeg": "/Memory-Card/static/media/Boromir.84c8aed98a535ecc6d6c.jpeg",
+    "static/media/Legolas.jpeg": "/Memory-Card/static/media/Legolas.a2e48f0c9f500554a8a6.jpeg",
+    "static/media/Faramir.jpeg": "/Memory-Card/static/media/Faramir.2338a31bb19a2e8bb65f.jpeg",
+    "static/media/Gandalf.jpeg": "/Memory-Card/static/media/Gandalf.9678878e37c9d631eac5.jpeg",
+    "static/media/Aragorn.jpeg": "/Memory-Card/static/media/Aragorn.142860298af66e6fc35c.jpeg",
+    "static/media/Frodo.jpeg": "/Memory-Card/static/media/Frodo.aad8a8f0a1a6230704f1.jpeg",
     "index.html": "/Memory-Card/index.html",
     "main.2c479612.css.map": "/Memory-Card/static/css/main.2c479612.css.map",
-    "main.be95b7d6.js.map": "/Memory-Card/static/js/main.be95b7d6.js.map"
+    "main.7e8c8180.js.map": "/Memory-Card/static/js/main.7e8c8180.js.map"
   },
   "entrypoints": [
     "static/css/main.2c479612.css",
-    "static/js/main.be95b7d6.js"
+    "static/js/main.7e8c8180.js"
   ]
 }
